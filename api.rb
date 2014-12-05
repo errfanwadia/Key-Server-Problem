@@ -3,7 +3,7 @@ require './models'
 require './commons'
 require 'uuid'
 
-debug = true
+# debug = true
 
 get '/gen-key' do
 
